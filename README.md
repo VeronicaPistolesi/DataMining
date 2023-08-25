@@ -1,8 +1,8 @@
 # Project for the Data Mining course [309AA]
-</br></br>
+
 <img src="https://apre.it/wp-content/uploads/2021/01/logo_uni-pisa.png" width="200" />
 
-## An extensive experimental setup of ML models for multivariable regression
+## Bots in Twitter
 The project consists of a data analysis based on data mining tools and performed using Python. The given original dataset consists of 2 .csv files, tweets.csv and users.csv, from which we
 extracted the data for the project. The work is broken down in four phases: 
 1. Task 1 which includes the two sub-tasks of data understanding and data preparation 
